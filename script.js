@@ -10,6 +10,6 @@ var color = prompt('Inserisci il tuo colore preferito: ');
 var colorPlaceholder = document.getElementById('color');
 colorPlaceholder.innerHTML = color;
 
-var password = name + surname + color + 21
+var password = name + surname + color + "21"
 var passwordPlaceholder = document.getElementById('password');
 passwordPlaceholder.innerHTML = password;
